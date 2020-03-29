@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    //斗鱼恶霸
+    <string-array name="douyueba">
+        <item>PDD</item>
+        <item>周淑怡</item>
+        <item>旭旭宝宝</item>
+        <item>卢本伟</item>
+    </string-array>
+</resources>
